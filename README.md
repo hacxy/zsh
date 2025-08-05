@@ -33,5 +33,5 @@ git clone git@github.com:hacxy/zsh.git  ~/.config/zsh
 
 ```sh
 # ...Other config
-source ~/.config/zsh/main.zsh
+source ~/.config/zsh/main.sh
 ```
